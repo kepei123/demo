@@ -1,0 +1,14 @@
+{
+    "name": "laravel/demo",
+    "description": "test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kevin",
+            "email": "kevin@kevin.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
